@@ -1,5 +1,6 @@
-# Hirehub-Job-Portal-system
- 👑Developed a full-featured job portal system with three main modules—Admin, Company, and Candidate—to support an end-to-end hiring process and provide a seamless user experience.
+# Hirehub-Smart Career & Hiring Platform
+
+ 👑Developed a full-featured Smart Career & Hiring Platform with three main modules—Admin, Company, and Candidate—to support an end-to-end hiring process and provide a seamless user experience.
 
 📷📷 MAIN 📷📷
 <img width="1345" height="590" alt="Screenshot 2025-08-16 210917" src="https://github.com/user-attachments/assets/e4bb9926-114b-4809-95c6-e0722e607deb" />
